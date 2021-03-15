@@ -1,3 +1,3 @@
 a=int(input())
 b=int(input())
-print("Add",a+b)
+print("Add value ",a+b)
